@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🛰️ intel-viz-ng
 
 **intel-viz-ng** is a secure, real-time Angular application for visualizing intelligence data pipelines and analyst workflows. Designed for use in high-stakes environments, it enables decision-makers and data engineers to monitor pipeline health, data provenance, and analytics activity streams at scale.
